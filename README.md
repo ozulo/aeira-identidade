@@ -10,6 +10,7 @@ Este repositorio aloxa a identidade visual do proxecto a eira.
 * identidade_grafica: Documento do desenvolvemento da imaxe visual do proxecto.
 * logo: logo en diferentes variantes.
 * fonte: Orkney, fonte empregada para tipografía do proxecto.
+* motion: archivo de vídeo para "motion branding"
 
 ## O proxecto.
 
